@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋
+Lee Minki (이민기, @leeminki02)
 
-<!--
-**leeminki02/leeminki02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"Idea becomes valuable at the moment I try to actualize it."*
 
-Here are some ideas to get you started:
+### 🔎 You can find me at..
+- Instagram: @leeminki02
+- GitHub: @leeminki02
+- Blog: [leeminki02.github.io](https://leeminki02.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m at ..
+- CTO at @teamheare
+- Undergraduate Student at DGIST(Daegu-Gyeongbuk Institute of Science and Technology)
+- TVA Student at DGIST-TVA(Technical Venture-leader Academy)
+- Majoring Computer Science (in Dept. of Information & Commmunication Engineering)
+
+### 🌱 I’m interested in ...
+- Flutter
+- Django
+- Software Architecture
+- Test-Driven Development
+
+### 🗂 Key Experiences
+- DSA-C (DGIST Startup Academy - Crash Course)
