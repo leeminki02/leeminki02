@@ -22,3 +22,4 @@ Lee Minki (이민기, @leeminki02)
 
 ### 🗂 Key Experiences
 - DSA-C (DGIST Startup Academy - Crash Course)
+- CUOP Intern at BostonAIMS Project (App Dev, AI Dev)
