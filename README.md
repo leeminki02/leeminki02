@@ -1,11 +1,12 @@
 ## Hi there 👋
-Lee Minki (이민기, @leeminki02)
+I'm Lee Minki (이민기, @leeminki02)
+- Korean🇰🇷, Undergraduate Student, Entrepreneur
 
-*"Idea becomes valuable at the moment I try to actualize it."*
+*"Now or Never, Better Late than Never."*
 
 ### 🔎 You can find me at..
-- Instagram: @leeminki02
-- GitHub: @leeminki02
+- Instagram: [@leeminki02](https://www.instagram.com/leeminki02/)
+- GitHub: [@leeminki02](https://github.com/leeminki02)
 - Blog: [leeminki02.github.io](https://leeminki02.github.io)
 
 ### 🔭 I’m at ..
@@ -21,5 +22,8 @@ Lee Minki (이민기, @leeminki02)
 - Test-Driven Development
 
 ### 🗂 Key Experiences
-- DSA-C (DGIST Startup Academy - Crash Course)
+- 2022 DGIST 창업경진대회(Startup Competition) 최우수상(2nd place winner)
 - CUOP Intern at BostonAIMS Project (App Dev, AI Dev)
+- DSA-C (DGIST Startup Academy - Crash Course)
+- 2019 Global Innovator Festa, Rookie league
+- 2018 Samsung Junior Software Cup Finals
