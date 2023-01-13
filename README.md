@@ -10,9 +10,8 @@ I'm Lee Minki (이민기, @leeminki02)
 - Blog: [leeminki02.github.io](https://leeminki02.github.io)
 
 ### 🔭 I’m at ..
-- CTO at @teamheare
+- Undergraduate Researcher at [CPSec Lab @ DGIST](https://cpsec.dgist.ac.kr)
 - Undergraduate Student at DGIST(Daegu-Gyeongbuk Institute of Science and Technology)
-- TVA Student at DGIST-TVA(Technical Venture-leader Academy)
 - Majoring Computer Science (in Dept. of Information & Commmunication Engineering)
 
 ### 🌱 I’m interested in ...
@@ -22,6 +21,8 @@ I'm Lee Minki (이민기, @leeminki02)
 - Test-Driven Development
 
 ### 🗂 Key Experiences
+- ~CEO at @teamheare~
+- TVA Student at DGIST-TVA(Technical Venture-leader Academy)
 - 2022 DGIST 창업경진대회(Startup Competition) 최우수상(2nd place winner)
 - CUOP Intern at BostonAIMS Project (App Dev, AI Dev)
 - DSA-C (DGIST Startup Academy - Crash Course)
