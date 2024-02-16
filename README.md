@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm Lee Minki (이민기, @leeminki02)
-- Korean🇰🇷, Undergraduate Student, Entrepreneur
+I'm Minki Lee (이민기, @leeminki02)
+- Korean🇰🇷, Undergraduate Student, Researcher
 
 *"Now or Never, Better Late than Never."*
 
