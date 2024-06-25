@@ -10,7 +10,7 @@ I'm Minki Lee (이민기, @leeminki02)
 - Blog: [leeminki02.github.io](https://leeminki02.github.io)
 
 ### 🔭 I’m at ..
-- Student Researcher at [CPSec Lab @ DGIST](https://cpsec.dgist.ac.kr)
+- Visiting Undergraduate Intern at [CompSec Lab @ POSTECH](https://compsec.postech.ac.kr/))
 - Undergraduate Student at DGIST(Daegu-Gyeongbuk Institute of Science and Technology)
 - Majoring in Computer Science (in Dept. of Electrical Engineering and Computer Science)
 
@@ -21,7 +21,8 @@ I'm Minki Lee (이민기, @leeminki02)
 - Test-Driven Development
 
 ### 🔬 Research History
-- Currently Research Student at CPSec Lab, Department of EECS, DGIST
+- Currently Visiting Undergraduate Intern at CompSec Lab, Department of CSE, POSTECH
+- Research Student at CPSec Lab, Department of EECS, DGIST (~ June, 2024)
 - Have published the first Demo Poster @VehicleSec 2024 about Attacking Resilience of Swarm Drones  
   📄: [Demo: One Shot All Kill: Building Optimal Attack on Swarm Drones](https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-8-demo.pdf)
 
