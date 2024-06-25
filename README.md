@@ -10,7 +10,7 @@ I'm Minki Lee (이민기, @leeminki02)
 - Blog: [leeminki02.github.io](https://leeminki02.github.io)
 
 ### 🔭 I’m at ..
-- Visiting Undergraduate Intern at [CompSec Lab @ POSTECH](https://compsec.postech.ac.kr/))
+- Visiting Undergraduate Intern at [CompSec Lab @ POSTECH](https://compsec.postech.ac.kr/)
 - Undergraduate Student at DGIST(Daegu-Gyeongbuk Institute of Science and Technology)
 - Majoring in Computer Science (in Dept. of Electrical Engineering and Computer Science)
 
