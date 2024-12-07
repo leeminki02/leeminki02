@@ -4,7 +4,7 @@ I'm Minki Lee (이민기, @leeminki02)
 *"Now or Never, Better Late than Never."*
 
 - Korean🇰🇷, Undergraduate Student, Researcher
-- [Curriculum Vitae](./Minki_Lee_CV_2024_0717.pdf)
+- [Curriculum Vitae](./Minki_Lee_CV.pdf)
 
 
 ### 🔎 You can find me at...
@@ -29,6 +29,7 @@ I'm Minki Lee (이민기, @leeminki02)
   📄: [Demo: One Shot All Kill: Building Optimal Attack on Swarm Drones](https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-8-demo.pdf)
 
 ### 🗂 Previous Key Experiences
+- 2024 HackTheDrone 2024 7th place winner at final, 2nd place at qualifier
 - Was CEO at Pre-Startup team, `teamheare`
 - 2022 TVA Student at DGIST-TVA(Technical Venture-leader Academy)
 - 2022 DGIST 창업경진대회(Startup Competition) 최우수상(2nd place winner)
