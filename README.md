@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Minki Lee (이민기, @leeminki02)
 
-*"Now or Never, Better Late than Never."*
+*"Born to dedicate, destined to inspire."*
 
 - Korean🇰🇷, Undergraduate Student, Researcher
 - [Curriculum Vitae](./Minki_Lee_CV.pdf)
@@ -25,7 +25,7 @@ I'm Minki Lee (이민기, @leeminki02)
 ### 🔬 Research History
 - Currently Visiting Undergraduate Intern at CompSec Lab, Department of CSE, POSTECH (Advisor: Seulbae Kim)
 - Research Student at CPSec Lab, Department of EECS, DGIST (~ June, 2024. Advisor: Prof. Hongjun Choi)
-- Have published the first Demo Poster @VehicleSec 2024 about Attacking Resilience of Swarm Drones
+- Have published the first Demo Poster @VehicleSec 2024 about Attacking Resilience of Swarm Drones <br>
   📄: [Demo: One Shot All Kill: Building Optimal Attack on Swarm Drones](https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-8-demo.pdf)
 
 ### 🗂 Previous Key Experiences
@@ -36,4 +36,4 @@ I'm Minki Lee (이민기, @leeminki02)
 - 2022 CUOP Intern at BostonAIMS Project (App Dev, AI Dev)
 - 2022 Completed DSA-C (DGIST Startup Academy - Crash Course)
 - 2019 Global Innovator Festa, Rookie league
-- 2018 Samsung Junior Software Cup Finals
+- 2018 Samsung Junior Software Cup Finalist
