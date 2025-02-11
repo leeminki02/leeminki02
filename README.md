@@ -29,8 +29,10 @@ I'm Minki Lee (이민기, @leeminki02)
   📄: [Demo: One Shot All Kill: Building Optimal Attack on Swarm Drones](https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-8-demo.pdf)
 
 ### 🗂 Previous Key Experiences
+- 2024 CUOP Intern at Quester (Computer Vision AI Developer)
 - HackTheDrone 2024 Tech Award (7th place) winner at final, 2nd place at qualifier (out of 164 teams)
-- Was Leader of Pre-Startup team, `teamheare`
+- 2024 VehicleSec Demo Poster Presenter (First Author)
+- Was Leader of DGIST President's Award winning Pre-Startup team, `teamheare`
 - 2022 TVA Student at DGIST-TVA(Technical Venture-leader Academy)
 - 2022 DGIST 창업경진대회(Startup Competition) 최우수상(2nd place winner)
 - 2022 CUOP Intern at BostonAIMS Project (App Dev, AI Dev)
