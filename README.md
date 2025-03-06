@@ -26,7 +26,7 @@ I'm Minki Lee (이민기, @leeminki02)
 - Currently Visiting Undergraduate Intern at CompSec Lab, Department of CSE, POSTECH (Advisor: Seulbae Kim)
 - Research Student at CPSec Lab, Department of EECS, DGIST (November 2022 ~ June 2024, Advisor: Prof. Hongjun Choi)
 - Have published the first Demo Poster @ VehicleSec 2024 about Attacking Resilience of Swarm Drones <br>
-  📄: [Demo: One Shot All Kill: Building Optimal Attack on Swarm Drones](https://dx.doi.org/10.14722/vehiclesec.2024.25008)
+  [Demo: One Shot All Kill: Building Optimal Attack on Swarm Drones](publications/vehiclesec2024-8-demo.pdf)
 
 ### 🗂 Previous Key Experiences
 - 2024 CUOP Intern at Quester (Computer Vision AI Developer)
