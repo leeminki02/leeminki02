@@ -3,7 +3,7 @@ I'm Minki Lee (이민기, @leeminki02)
 
 *"Born to dedicate, destined to inspire."*
 
-- Korean🇰🇷, Undergraduate Student, Researcher
+- Korean 🇰🇷, Undergraduate Student, Researcher
 - [Curriculum Vitae](./Minki_Lee_CV.pdf)
 
 
