@@ -1,20 +1,13 @@
 ## Hi there 👋
 I'm Minki Lee (이민기, @leeminki02)
 
-*"Born to dedicate, destined to inspire."*
-
-- Korean 🇰🇷, Undergraduate Student, Researcher
+- Korean 🇰🇷, Student Researcher
+- Expected to enroll in Integrated M.S.+Ph.D. Program at [CompSec Lab @ POSTECH](https://compsec.postech.ac.kr/)
 - [Curriculum Vitae](./Minki_Lee_CV.pdf)
-
 
 ### 🔎 You can find me at...
 - GitHub: [@leeminki02](https://github.com/leeminki02)
 - Instagram: [@leeminki02](https://www.instagram.com/leeminki02/)
-
-### 🔭 I’m currently ..
-- Visiting Undergraduate Intern at [CompSec Lab @ POSTECH](https://compsec.postech.ac.kr/)
-- Expected to enroll in Integrated M.S.+Ph.D. Program at POSTECH (Pohang University of Science and Technology)
-- Majoring in Computer Science and Engineering
 
 ### 🌱 I’m interested in ...
   - Cyber-Physical Systems (CPS) Security
