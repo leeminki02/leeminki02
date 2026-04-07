@@ -3,7 +3,7 @@ I'm Minki Lee (이민기, @leeminki02)
 
 - Korean 🇰🇷, Student Researcher
 - Integrated M.S.+Ph.D. Program at [CompSec Lab @ POSTECH](https://compsec.postech.ac.kr/)
-- For more informations, please refer to [My Curriculum Vitae](./Minki_Lee_CV.pdf)
+- For more informations, please refer to [My Curriculum Vitae](https://leeminki02.github.io/assets/Minki_Lee_CV.pdf)
 
 ### 🔎 You can find me at...
 - GitHub: [@leeminki02](https://github.com/leeminki02)
