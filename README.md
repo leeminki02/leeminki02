@@ -16,7 +16,7 @@ I'm Minki Lee (이민기, @leeminki02)
 - Open Source Software Security
 
 ### 🔬 Research History
-- Swarmbox is accepted to ACM FSE 2026 and will be presented in July 2026!
+- [SwarmBox](https://github.com/postech-compsec/swarmbox) is accepted to ACM FSE 2026 and will be presented in July 2026!
 - M.S. + Ph.D. Student at CompSec Lab, Department of CSE, POSTECH (Advisor: Prof. Seulbae Kim)
 - Former research student at CPSec Lab, Department of EECS, DGIST (November 2022 ~ June 2024, Advisor: Prof. Hongjun Choi)
   - [Demo: One Shot All Kill: Building Optimal Attack on Swarm Drones](https://leeminki02.github.io/publications/vehiclesec2024-8-demo.pdf)
