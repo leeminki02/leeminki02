@@ -10,7 +10,7 @@ I'm Minki Lee (이민기, @leeminki02)
 - Instagram: [@leeminki02](https://www.instagram.com/leeminki02/)
 
 ### 🌱 I’m interested in ...
-- {Cyber-Physical Systems (CPS) | Distributed Systems | Embedded Systems} Security
+- Security of {Cyber-Physical Systems (CPS), Distributed Systems, Embedded Systems}
 - Secure-by-Design Development
 - CPS Architecture & Engineering
 - Open Source Software Security
